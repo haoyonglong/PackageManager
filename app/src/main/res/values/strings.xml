@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">包名工具</string>
+    <string name="select">选择</string>
+    <string name="copy">复制包名到剪贴板</string>
+    <string name="copy_to_clipboard">已复制到剪贴板</string>
+    <string name="select_apk">请选择要复制的包名</string>
+    <string name="notice">单击复制单个包名，多选右上角复制多个包名到剪贴板</string>
+</resources>
